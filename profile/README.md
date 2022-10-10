@@ -10,6 +10,8 @@ The repositories should cover the following topics:
 - Articles/tutorials on wearable devices programming
 and other.
 
-Keep in mind, that the organization and its creator are not associated with Garmin.
+This is an open-source project and all contributions are welcomed.
+If you have an idea on what else should be included (new examples, tutorials, etc.), please let us know.
 
+Keep in mind, that the organization and its creator are not associated with Garmin.
 Also, this is a non-commercial effort. Please, consider sponsoring it.
